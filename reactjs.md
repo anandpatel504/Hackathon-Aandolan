@@ -12,4 +12,6 @@ Exa:- "https://newsapi.org/v2/top-headlines?pageSize=100&country=in&category=Bus
 - S.Vivek
 - Ramesh
 - Rahit
+- Najeeba
+- Halima
 

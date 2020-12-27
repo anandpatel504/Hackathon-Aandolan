@@ -13,7 +13,7 @@ You have to do dry run and flowchart of 30 questions
 - Hemant
 - Dhruv
 - Sampath
-- Bhupendra
+- Bhupendar
 - Tushar
 - Rajkumar
 

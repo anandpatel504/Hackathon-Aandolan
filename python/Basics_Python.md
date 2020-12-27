@@ -1,4 +1,4 @@
-Project for Python Students
+Project for basic Python Students
 
 ## Group 1
 - Parmeshwar

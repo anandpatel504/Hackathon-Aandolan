@@ -7,7 +7,7 @@ You have to create Google-News key and that key you will use in your google-news
 ```
 Exa:- "https://newsapi.org/v2/top-headlines?pageSize=100&country=in&category=Business&api + process.env.KEY"
 ```
-## Team
+## Team1
 ## Ajith
 - Bijendra
 - Umesh

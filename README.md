@@ -1,7 +1,8 @@
-# Python-NodeJs-Hackathon2.0
+# Python-JavaScript-NodeJS-ReactJS-Hackathon2.0
 
-Hackathon will start today 4:00 PM to tuesday 5:00 PM.
-Hope you all will guys try your best
+Hello folks,
+Hope you all are doing well. hackathon will start today 4:00 PM to tuesday 5:00 PM.
+Hope you all will try your best👍👍
 
 
 Happy Coding :)

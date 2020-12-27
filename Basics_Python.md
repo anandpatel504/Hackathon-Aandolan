@@ -18,7 +18,7 @@ You have to do dry run and flowchart of 30 questions
 - Rajkumar
 
 ```
-You have to make guessing game , ATM and Rock-Scissor-Paper Game.
+You have to make guessing game , ATM and Rock-paper-Scissor Game.
 ```
 
 ## Group 3

@@ -4,8 +4,18 @@ Use:- express, MySQL, knex you can follow MVC.
 for Verifying the user you can use JWT strategy
 ```
 
-## Team 1
-## Akash
-- Rohit
-- Deepak Patel
-- Paritosh
+### Note:-
+Food responsibility (IMP) :-)
+
+## Team-1
+-Siddik
+-Subhash
+-Rajkumar
+-Sampath
+
+## Team-2
+-Anmol
+-Parmeshwar
+-Shubhadip
+-Satpal
+-Vishal

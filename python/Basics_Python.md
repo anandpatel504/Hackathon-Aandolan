@@ -1,5 +1,23 @@
 Project for basic Python Students
 
+Teams:-
+## Python
+- Nasir
+- Akshay 
+- Saikiran
+- Aarif
+- Abhay
+- Rajesh Anuragi
+- Amol
+- Akshit
+- Vikas 
+- Priyanshu
+- Dipesh
+- Anurag
+- Prathmesh
+- Suraj Kumar
+- Rahul S.
+
 ## Group 1
 - Parmeshwar
 - Subhash

@@ -8,14 +8,14 @@ for Verifying the user you can use JWT strategy
 Food responsibility (IMP) :-)
 
 ## Team-1
--Siddik
--Subhash
--Rajkumar
--Sampath
+- Siddik
+- Subhash
+- Rajkumar
+- Sampath
 
 ## Team-2
--Anmol
--Parmeshwar
--Shubhadip
--Satpal
--Vishal
+- Anmol
+- Parmeshwar
+- Shubhadip
+- Satpal
+- Vishal

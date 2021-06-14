@@ -1,50 +1,85 @@
-Project for basic Python Students
+# Project for basic Python Students
 
-Teams:-
-## Python
-- Nasir
-- Akshay 
+## loop in python
+
+### Team 1
+- Vikash
+- Rajesh 
+- shubham ramteke
+
+```
+ your projects
+1.HANGMANE 
+2. ATM MACHINE 
+3. COFFEE SHOP
+
+```
+
+## List in python 
+
+### Team 1
+- Shubham kulkurni
 - Saikiran
-- Aarif
-- Abhay
-- Rajesh Anuragi
-- Amol
-- Akshit
-- Vikas 
-- Priyanshu
-- Dipesh
+
+ 
+```
+ your projects
+1.KBC game using sound  
+2.Magic Square 
+3.Flames (Games this is link doc) -> https://docs.google.com/document/d/103QNvC2TGdfyNVYW9eVsM8HWhvqUEm4Zlfn7OBEi0r8/edit?usp=sharing
+
+```
+
+## Dictonary in python
+
+### Team 1
+
+- Akshay 
 - Anurag
-- Prathmesh
-- Suraj Kumar
-- Rahul S.
+- Abhey
+- Harshal
 
-## Group 1
-- Parmeshwar
-- Subhash
+### Team 2
+
+- Aarif
+- Nasir
+- Amol
+
+
+```
+ Your projects
+1. Make Card game 
+2. Make JUMP FIVE game  
+
+```
+
+
+## function in python
+
+### Team 1
+- Priyanshu
 - Suraj
+- Akshit
+- Prathmesh
 
 ```
-You have to do dry run and flowchart of 30 questions
-```
-
-## Group 2
-- Hemant
-- Dhruv
-- Sampath
-- Bhupendar
-- Tushar
-- Rajkumar
+ Your projects
+1.BODMAS calculator 
+2.Snake game 
+3.Make flames with function (Games this is link doc) -> https://docs.google.com/document/d/103QNvC2TGdfyNVYW9eVsM8HWhvqUEm4Zlfn7OBEi0r8/edit?usp=sharing
 
 ```
-You have to make guessing game , ATM and Rock-paper-Scissor Game.
-```
 
-## Group 3
-- Shubhdeep
-- Siddik
-- Vishal 
-- Ranjan
+
+## Json in python
+
+### Team 1
+- Rahul Saryam
+- Dipesh
 
 ```
-You have to make a BODMAS calculator and please don't try to use inbuilt functions like eval.
+ Your projects
+1. login sign page 
+2. Solve all JSON question from Meraki
+
 ```

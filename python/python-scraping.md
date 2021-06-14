@@ -1,10 +1,9 @@
 IMDB (priority)
-You have to scrap 10 pages of product TV (LG and Sony Brand only) and from flipkart.
+'''
+You have to complete 5 task from Merakilearn.org
+'''
 
-```
-Use:- Selenium, BueatifulSoup and MultiThreading or concurrency to scrap data faster.
-```
+# Scraping
 
-## Team1
+### Team 1
 - Pawan
-- Dipesh

@@ -6,6 +6,7 @@
 1. Guessing Game
 
     This is going to be a simple guessing game where the computer will generate a `random` number between 1 to 10, and the user has to guess it in 5 attempts.
+
 ---
 2. Rolling the dice
 

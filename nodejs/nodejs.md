@@ -4,6 +4,7 @@
 ---
 1. You have to learn `KnexJS` and it's query and schemas throughly and then you have make a simple project where you have to implement `CRUD` : 
    Users will give their name, email and contact. 
+   
       -Connecting your backend to the database (MySql)
       -Creating Table in database 
       -Deleting a table 

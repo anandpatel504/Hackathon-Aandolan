@@ -2,7 +2,7 @@
 
 # Hackathon
 
-Hey hey folks,
+Hey! hey! folks,
 Hope you all are doing well. Hackathon will start today that is on Saturday 4:00 PM to Sunday 4:00 PM.
 Hope you all will try your best👍👍
 

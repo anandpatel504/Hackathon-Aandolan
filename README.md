@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/aW0nxl2Z8UjMYQA6pg/giphy.gif?cid=ecf05e47t80rrkdkhme3nibtw40afltze2j7sx6acrp05cly&rid=giphy.gif&ct=g">
+<p align="center"><img src="https://media3.giphy.com/media/aW0nxl2Z8UjMYQA6pg/giphy.gif?cid=ecf05e47t80rrkdkhme3nibtw40afltze2j7sx6acrp05cly&rid=giphy.gif&ct=g"></p>
 
 # Hackathon
 
@@ -15,14 +15,14 @@ Hope you all will try your best👍👍
 ```
 
 ## Hackathon Projects
-<a href="https://github.com/anandpatel504/Python-JavaScript-NodeJS-ReactJS-Hackathon/blob/master/python/Basics_Python.md#basic-projects">Basic Python</a>
+<a href="https://github.com/anandpatel504/Hackathon-Aandolan/blob/master/python/Basics_Python.md#basic-projects">Basic Python</a>
 
-<a href="https://github.com/anandpatel504/Python-JavaScript-NodeJS-ReactJS-Hackathon/blob/master/python/Basics_Python.md#advance-projects">Advance Python</a>
+<a href="https://github.com/anandpatel504/Hackathon-Aandolan/blob/master/python/Basics_Python.md#advance-projects">Advance Python</a>
 
 
-<a href="https://github.com/anandpatel504/Python-JavaScript-NodeJS-ReactJS-Hackathon/blob/master/javascript/Basics_JavaScript.md">Basic Javascript</a>
+<a href="https://github.com/anandpatel504/Hackathon-Aandolan/blob/master/javascript/Basics_JavaScript.md">Basic Javascript</a>
 
-<a href="https://github.com/anandpatel504/Python-JavaScript-NodeJS-ReactJS-Hackathon/blob/master/nodejs/basic-nodejs.md">Nodejs</a>
+<a href="https://github.com/anandpatel504/Hackathon-Aandolan/blob/master/nodejs/basic-nodejs.md">Nodejs</a>
 
 
 Happy Coding :)

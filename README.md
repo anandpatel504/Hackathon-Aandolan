@@ -22,7 +22,7 @@ Hope you all will try your best👍👍
 
 <a href="https://github.com/anandpatel504/Hackathon-Aandolan/blob/master/javascript/Basics_JavaScript.md">Basic Javascript</a>
 
-<a href="https://github.com/anandpatel504/Hackathon-Aandolan/blob/master/nodejs/basic-nodejs.md">Nodejs</a>
+<a href="https://github.com/anandpatel504/Hackathon-Aandolan/tree/master/nodejs">Nodejs</a>
 
 
 Happy Coding :)

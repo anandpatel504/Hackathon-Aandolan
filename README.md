@@ -15,9 +15,9 @@ Hope you all will try your best👍👍
 ```
 
 ## Hackathon Projects
-<a href="https://github.com/anandpatel504/Hackathon-Aandolan/blob/master/python/Basics_Python.md#basic-projects">Basic Python</a>
+<a href="https://github.com/anandpatel504/Hackathon-Aandolan/blob/master/python/Python.md#basic-projects">Basic Python</a>
 
-<a href="https://github.com/anandpatel504/Hackathon-Aandolan/blob/master/python/Basics_Python.md#advance-projects">Advance Python</a>
+<a href="https://github.com/anandpatel504/Hackathon-Aandolan/blob/master/python/Python.md#advance-projects">Advance Python</a>
 
 
 <a href="https://github.com/anandpatel504/Hackathon-Aandolan/blob/master/javascript/Basics_JavaScript.md">Basic Javascript</a>

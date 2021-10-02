@@ -9,16 +9,20 @@
 ---
 2. Rolling the dice
 
-    Similar to the “Guess the Number” game above, building a die roller can be used to play games. Or you can make one similar to a Magic 8-Ball to answer your most profound questions! Skills used: `Random` library, print, while loops.
+    Similar to the “Guess the Number” game above, building a die roller can be used to play games. Or you can make one similar to a Magic 6-Ball to answer your most profound questions! Skills used: `Random` library, print, while loops.
 
 ---
-3. 
+3. Text-Base Adventure Game
+
+    A Text-Based Adventure Game is a type of game in which a player has to make choices (Yes / No) in every step of the game.
+
+    Based on these choices, the storyline changes, and at last, we get to know that whether the player wins or loses the game.
 
 ---
 # Advance Projects
 1. Alarm Clock with GUI
 
-    About the Python Project
+    Abut the Python Project
 The objective of our project is to implement an alarm clock using Python. Python consists of some very innovative libraries such as `datetime` and `tkinter` which help us to build the project using the current date and time as well as to provide a user interface to set the alarm according to the requirement in 24-hour format.
 
 ---
@@ -34,7 +38,7 @@ The objective of our project is to implement an alarm clock using Python. Python
    Python Project Idea – Another interesting project is to make a nice interface through which you can download youtube videos in different formats and video quality you can use `pytube` library.
 ---
 
-4. JSON Crud Aplication
+4. `Json` Crud Aplication
    1. Name
    2. Email
    3. Contact

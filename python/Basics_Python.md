@@ -1,7 +1,7 @@
 # Project for Python Students
 
 ---
-# Advance Projects
+# Basic Projects
 
 ---
 # Advance Projects

@@ -24,3 +24,7 @@ for Verifying the user you can use JWT strategy
 ```
 
 ### Advance projects
+---
+1. Passport-Strategies(http://www.passportjs.org/)
+
+   In this project you have to implement Google, LinkedIn and GiHub strategies where the user can login by using these strategies.

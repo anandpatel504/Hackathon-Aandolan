@@ -9,9 +9,9 @@ Hope you all will try your best👍👍
 
 ```
 1. Python
-1. Javascript
-2. Nodejs
-3. ReactJS
+2. Javascript
+3. Nodejs
+4. ReactJS
 ```
 
 ## Hackathon Projects

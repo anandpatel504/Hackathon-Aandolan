@@ -108,7 +108,7 @@ The objective of our project is to implement an alarm clock using Python. Python
 4. Json Crud Aplication
    1. Name
    2. Email
-   3. Phone
+   3. Contact
 
 ---
 5. Python File Explorer

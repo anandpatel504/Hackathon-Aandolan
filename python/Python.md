@@ -3,27 +3,38 @@
 ---
 # Basic Projects
 
+1. Guessing Game
+
+    This is going to be a simple guessing game where the computer will generate a `random` number between 1 to 10, and the user has to guess it in 5 attempts.
+---
+2. Rolling the dice
+
+    Similar to the “Guess the Number” game above, building a die roller can be used to play games. Or you can make one similar to a Magic 8-Ball to answer your most profound questions! Skills used: `Random` library, print, while loops.
+
+---
+3. 
+
 ---
 # Advance Projects
 1. Alarm Clock with GUI
 
     Abut the Python Project
-The objective of our project is to implement an alarm clock using Python. Python consists of some very innovative libraries such as datetime and tkinter which help us to build the project using the current date and time as well as to provide a user interface to set the alarm according to the requirement in 24-hour format.
+The objective of our project is to implement an alarm clock using Python. Python consists of some very innovative libraries such as `datetime` and `tkinter` which help us to build the project using the current date and time as well as to provide a user interface to set the alarm according to the requirement in 24-hour format.
 
 ---
 2. Desktop Notifier App in Python
 
    Python Project Idea – A desktop notifier app runs on your system and it will be used to send you notifications after every specific interval of time.
 
-   You can use the libraries like notify2, requests, etc to build this app.
+   You can use the libraries like `notify2`, requests, etc to build this app.
 
 ---
 3. Youtube Videos Downloader
 
-   Python Project Idea – Another interesting project is to make a nice interface through which you can download youtube videos in different formats and video quality.
+   Python Project Idea – Another interesting project is to make a nice interface through which you can download youtube videos in different formats and video quality you can use `pytube` library.
 ---
 
-4. Json Crud Aplication
+4. `Json` Crud Aplication
    1. Name
    2. Email
    3. Contact
